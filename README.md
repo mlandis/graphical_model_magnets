@@ -71,7 +71,6 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
   (Complete steps 1-4)
   
   5. Listen to appropriate [music](https://youtu.be/5wCUlPNlQuA?t=7s) (optional)
-  
   6. Paint it black
     <br><img src="img/pgm_edge_paint.jpg" width="350px"/>
    
