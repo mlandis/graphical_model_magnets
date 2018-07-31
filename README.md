@@ -11,8 +11,8 @@ Email: mlandis [at] gmail [dot] com
 The magnets are simple, lightweight, and clean. Plus they make a satisfying "clack" on whiteboards. Overall, rather fun to play with.
 
 * Useful for teaching
-* Design models in the field
-* Compact storage
+* Design models anywhere ferrous
+* Compact and organized storage
 * Easy enough for a baby to use
 
 ### Motivation
