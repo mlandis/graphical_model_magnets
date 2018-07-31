@@ -86,6 +86,6 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
 There are a few ways to improve the design with additional materials and effort:
 
 - Rather than using one central magnet, using 2--4 weaker magnets would improve stability of nodes and arrows against the board. Gouging spaces to embed magnets into the wooden shapes would also help stabilize the markers and improve how well the glue binds to the magnet.
-- Adding magnetized connectors to nodes and edges so that they "snap" together would be very satisfying. Eliminating the need to match arbitrary polarities for connections seems like it'd require some clever and economical engineering.
+- Adding magnetized connectors to nodes and edges so that they "snap" together would be very satisfying. Eliminating the need to match arbitrary polarities for connections seems like it'd require some clever (but thrifty) engineering.
 - Painting permanent borders on to the nodes might give them a cleaner look, though I like that I can define the node's identity on the fly (e.g. stochastic vs. deterministic nodes). Permanently dyeing a few circular (stochastic) nodes gray for use as observed stochastic nodes would also be a nice touch. The directed edges could use a coat of sealant.
 - Currently the edges are short and rigid, which could be a problem when longer or crossed edges are needed in complex graphs. As a hack, stacking extra magnets to the back of some edges would allow for crossing. Longer or curved arrows could be purchased through Etsy at higher cost (custom shapes).
