@@ -1,10 +1,4 @@
-## Graphical model magnets
-
-Magnetized nodes and edges for building graphical models
-
-Twitter: @landismj
-
-Email: mlandis [at] gmail [dot] com
+## Graphical model magnets: How-To (and some Why)
 
 <img src="img/pgm_anim.gif" width="350px"/>
 
@@ -14,6 +8,11 @@ The magnets are simple, lightweight, and clean. Plus they make a satisfying "cla
 * Design models anywhere ferrous
 * Compact and organized storage
 * Easy enough for a baby to use
+
+Contact
+* Email: [mlandis@gmail.com](mailto:mlandis@gmail.com)
+* Twitter: [@landismj](https://twitter.com/landismj)
+
 
 ### Motivation
 
@@ -74,7 +73,6 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
   5. Paint black
     <br><img src="img/pgm_edge_paint.jpg" width="350px"/>
    
-
 #### Done
 
 - And that's it!
