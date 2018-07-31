@@ -32,7 +32,7 @@ I'm more than pleased with how the graphical model magnets turned out. Not bad f
 
 ### Materials
 
-I prototyped the design with cardboard cutouts to decide what size I liked. The below sizes are visible from about 40 feet away. These materials aim to balance cost and quality. About $40 was enough to build 20 nodes and 20 edges, which much of that being overhead from shipping:
+I prototyped the design with cardboard cutouts to decide what size I liked. The below sizes are visible from about 40 feet away. These materials aim to balance cost and quality. About $40 was enough to build 20 nodes and 20 edges, with much of that being overhead from shipping:
 
 - wooden shapes
   - circles, 3.5 inches wide [[link](https://www.etsy.com/listing/512797965/circle-shape-large-small-pick-size)]
