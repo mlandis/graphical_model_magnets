@@ -60,26 +60,26 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
 
 ##### Nodes & Edges
   1. Mark the center of each shape
-    <br><img src="img/pgm_node_mark.JPG" alt="Mark the center of each shape" width="300px"/>
+    <br><img src="img/pgm_node_mark.jpg" alt="Mark the center of each shape" width="300px"/>
   2. Dab with glue
-    <br><img src="img/pgm_node_glue.JPG" width="300px"/>
+    <br><img src="img/pgm_node_glue.jpg" width="300px"/>
   3. Place magnet (match polarity across shapes)
-    <br><img src="img/pgm_node_magnet.JPG" width="300px"/>
+    <br><img src="img/pgm_node_magnet.jpg" width="300px"/>
   4. Apply pressure until dry (prevents tilting of magnets)
-    <br><img src="img/pgm_node_pressure.JPG" width="300px"/>
+    <br><img src="img/pgm_node_pressure.jpg" width="300px"/>
 
 ##### Nodes
   5. Place node face down on to contact paper
-    <br><img src="img/pgm_node_paper.JPG" width="300px"/>
+    <br><img src="img/pgm_node_paper.jpg" width="300px"/>
   6. Trim edges with a fine, sharp edge
-    <br><img src="img/pgm_node_trim.JPG" width="300px"/>
+    <br><img src="img/pgm_node_trim.jpg" width="300px"/>
 
 ##### Edges
   5. Paint black
-    <br><img src="img/pgm_edge_paint.JPG" width="300px"/>
+    <br><img src="img/pgm_edge_paint.jpg" width="300px"/>
    
 That's it!
-    <br><img src="img/pgm_done.JPG" width="300px"/>
+    <br><img src="img/pgm_done.jpg" width="300px"/>
   
 ### Ideas for improvements
 
