@@ -1,10 +1,12 @@
-# graphical_model_magnets
+# Graphical model magnets
 
 ---
 ### Contact
 
 Twitter: @landismj
+
 Email: mlandis [at] gmail [dot] com
+
 ### In action
 
 This is how they work. The magnets are strong enough to give a nice clacking sound.
@@ -58,7 +60,7 @@ I prototyped the design with cardboard cutouts to decide what size I liked. The 
 
 After settling on the procedure, it took only 90 minutes of work to prepare all 20 nodes and 20 edges. Waiting for glue and paint to dry adds to the total time. Working in batches in a dedicated workspace speeds the process. Use cardboard in your workspace to protect your furniture from glue, paint, and knife scratches.
 
-##### Nodes & Edges
+#### Nodes & Edges
   1. Mark the center of each shape
     <br><img src="img/pgm_node_mark.jpg" alt="Mark the center of each shape" width="350px"/>
   2. Dab with glue
@@ -68,18 +70,27 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
   4. Apply pressure until dry (prevents tilting of magnets)
     <br><img src="img/pgm_node_pressure.jpg" width="350px"/>
 
-##### Nodes
+#### Nodes
+
+  (Complete steps 1-4)
+  
   5. Place node face down on to contact paper
     <br><img src="img/pgm_node_paper.jpg" width="350px"/>
   6. Trim edges with a fine, sharp edge
     <br><img src="img/pgm_node_trim.jpg" width="350px"/>
 
-##### Edges
+#### Edges
+  
+  (Complete steps 1-4)
+  
   5. Paint black
     <br><img src="img/pgm_edge_paint.jpg" width="350px"/>
    
-That's it!
-    <br><img src="img/pgm_done.jpg" width="350px"/>
+
+#### Done
+
+- And that's it!
+<br><img src="img/pgm_done.jpg" width="350px"/>
   
 ### Ideas for improvements
 
