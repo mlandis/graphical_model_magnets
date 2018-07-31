@@ -1,4 +1,4 @@
-## Graphical model magnets: How-To (and some Why)
+## DIY Graphical Model Magnets: How-To (and some Why)
 
 <img src="img/pgm_anim.gif" width="350px"/>
 
