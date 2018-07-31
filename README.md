@@ -16,22 +16,6 @@ Contact
 * Email: [mlandis@gmail.com](mailto:mlandis@gmail.com)
 * Twitter: [@landismj](https://twitter.com/landismj)
 
-### Motivation
-
-Probabilistic models are sets of random variables that share a common dependency structure. Such models have an equivalent graphical representation, in which model variables are represented by nodes and and variable dependencies are represented by directed edges. These graphs are called probabilistic graphical models (PGMs). PGMs are useful in modeling for many purposes: from designing efficient algorithms for inference methods, to blueprinting and specifying models, to teaching and communicating how particular models are built.
-
-I study evolutionary biology. A major part of my research involves developing methods for the Bayesian phylogenetics package, [RevBayes](http://revbayes.com). In RevBayes, both the scripting language that biologists use to specify models and the computational back-end that's used for inference are designed upon a graphical architecture (papers for the [software](https://academic.oup.com/sysbio/article/65/4/726/1753608) and its underlying [design](https://academic.oup.com/sysbio/article/63/5/753/2847897)).
-
-When I'm not developing RevBayes code, I use RevBayes to explore evolutionary models to understand how life evolved on the planet (examples of recent work studying [turtle](https://academic.oup.com/sysbio/article/66/2/128/2669985) and [silversword](https://www.biorxiv.org/content/early/2018/04/17/301887) biogeography). A major part phylogenetic research requires prototyping and designing new models. Similar to how programmers write pseudocode to first sketch out the logical skeleton of unwritten code, I sketch graphical models to initially design the logical skeleton of my model.
-
-Drawing PGMs to this end is clarifying, and even fun, whether by hand or using graphing software like [TikZ](https://sourceforge.net/projects/pgf/). But as model complexity grows, so does the model's graphical representation. On particularly uninhibited days, constructing a PGM without prudent urban planning may result in a graph that no longer fits on the board, becomes lopsided, etc. Redistributing the layout of nodes and edges generally means erasing and redrawing large portions of your graph -- perhaps multiple times, depending on how careful you are when brainstorming. That's mostly a personal problem, but one others might share.
-
-More broadly, I've taught at the [Molecular Evolution Workshop](https://molevol.mbl.edu/index.php/Main_Page) in Woods Hole for the past few years. With others, I teach portions of the [Bayesian phylogenetics](https://revbayes.github.io/workshops/woodshole2018.html) unit, where I introduce concepts in phylogenetic model building while using RevBayes as a platform. My presentation normally relies on either static premade images or hand drawn board work. While imagining more effective ways to present the material, magnets came to mind -- magnets where you could write on their surface and rearrange them in whatever way the group's curiosity might take us. I thought magnets like this might be available online, but my searches came up empty. So the only thing to do was to make some myself!
-
-The magnets made for a fantastic teaching aid -- e.g. "Who'll volunteer to build the graphical model that specifies such-and-such list of equations? How many random variables do you have? How many edges are needed? What if you treated the value of U to be determined by the function L + z^2 instead of as a constant value? What if you set z to be Gamma-distributed with shape 2 and scale 4?" -- it turned what could have been a stale moment into something lively and interactive that involved the whole class.
-
-I'm more than pleased with how the graphical model magnets turned out. And the students and teachers at the workshop seemed to enjoy them, too. My thanks go to the MolEvol2018 [Course Participants](https://molevol.mbl.edu/index.php/Participants) for allowing [Tracy Heath](http://phyloworks.org/) and myself to try these out in the classroom! Besides teaching, I'm finding the magnets are a pleasant alternative to pen-and-paper for diagramming new models.
-
 ### Materials
 
 I prototyped the design with cardboard cutouts to decide what size I liked. The below sizes are visible from about 40 feet away. These materials aim to balance cost and quality. About $40 was enough to build 20 nodes and 20 edges, with much of that being overhead from shipping:
@@ -80,6 +64,22 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
 
 - And that's it!
 <br><img src="img/pgm_done.jpg" width="350px"/>
+  
+### Motivation
+
+Probabilistic models are sets of random variables that share a common dependency structure. Such models have an equivalent graphical representation, in which model variables are represented by nodes and and variable dependencies are represented by directed edges. These graphs are called probabilistic graphical models (PGMs). PGMs are useful in modeling for many purposes: from designing efficient algorithms for inference methods, to blueprinting and specifying models, to teaching and communicating how particular models are built.
+
+I study evolutionary biology. A major part of my research involves developing methods for the Bayesian phylogenetics package, [RevBayes](http://revbayes.com). In RevBayes, both the scripting language that biologists use to specify models and the computational back-end that's used for inference are designed upon a graphical architecture (papers for the [software](https://academic.oup.com/sysbio/article/65/4/726/1753608) and its underlying [design](https://academic.oup.com/sysbio/article/63/5/753/2847897)).
+
+When I'm not developing RevBayes code, I use RevBayes to explore evolutionary models to understand how life evolved on the planet (examples of recent work studying [turtle](https://academic.oup.com/sysbio/article/66/2/128/2669985) and [silversword](https://www.biorxiv.org/content/early/2018/04/17/301887) biogeography). A major part phylogenetic research requires prototyping and designing new models. Similar to how programmers write pseudocode to first sketch out the logical skeleton of unwritten code, I sketch graphical models to initially design the logical skeleton of my model.
+
+Drawing PGMs to this end is clarifying, and even fun, whether by hand or using graphing software like [TikZ](https://sourceforge.net/projects/pgf/). But as model complexity grows, so does the model's graphical representation. On particularly uninhibited days, constructing a PGM without prudent urban planning may result in a graph that no longer fits on the board, becomes lopsided, etc. Redistributing the layout of nodes and edges generally means erasing and redrawing large portions of your graph -- perhaps multiple times, depending on how careful you are when brainstorming. That's mostly a personal problem, but one others might share.
+
+More broadly, I've taught at the [Molecular Evolution Workshop](https://molevol.mbl.edu/index.php/Main_Page) in Woods Hole for the past few years. With others, I teach portions of the [Bayesian phylogenetics](https://revbayes.github.io/workshops/woodshole2018.html) unit, where I introduce concepts in phylogenetic model building while using RevBayes as a platform. My presentation normally relies on either static premade images or hand drawn board work. While imagining more effective ways to present the material, magnets came to mind -- magnets where you could write on their surface and rearrange them in whatever way the group's curiosity might take us. I thought magnets like this might be available online, but my searches came up empty. So the only thing to do was to make some myself!
+
+The magnets made for a fantastic teaching aid -- e.g. "Who'll volunteer to build the graphical model that specifies such-and-such list of equations? How many random variables do you have? How many edges are needed? What if you treated the value of U to be determined by the function L + z^2 instead of as a constant value? What if you set z to be Gamma-distributed with shape 2 and scale 4?" -- it turned what could have been a stale moment into something lively and interactive that involved the whole class.
+
+I'm more than pleased with how the graphical model magnets turned out. And the students and teachers at the workshop seemed to enjoy them, too. My thanks go to the MolEvol2018 [Course Participants](https://molevol.mbl.edu/index.php/Participants) for allowing [Tracy Heath](http://phyloworks.org/) and myself to try these out in the classroom! Besides teaching, I'm finding the magnets are a pleasant alternative to pen-and-paper for diagramming new models.
   
 ### Ideas for improvements
 
