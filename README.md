@@ -1,34 +1,19 @@
-# Graphical model magnets
-
----
-### Contact
+## Graphical model magnets
 
 Twitter: @landismj
 
 Email: mlandis [at] gmail [dot] com
 
-### In action
-
-This is how they work. The magnets are strong enough to give a nice clacking sound.
+### Example
 
 <br><img src="img/pgm_anim.gif" width="350px"/>
-[video]()
 
-Teaching aid
+The magnets are simple, lightweight, and clean. Plus they make a satisfying "clack" on whiteboards. Overall, rather fun to play with.
 
-[pic]()
-
-Collaborate anywhere
-
-[pic]()
-
-Compact storage
-
-[pic]()
-
-Easy enough for a baby to use.
-
-[pic]()
+* Useful for teaching
+* Design models in the field
+* Compact storage
+* Easy enough for a baby to use
 
 ### Motivation
 
@@ -41,6 +26,8 @@ When I'm not developing RevBayes code, I use RevBayes to explore evolutionary mo
 Drawing PGMs is a joyful experience for me, whether by hand or using graphing software like [TikZ](https://sourceforge.net/projects/pgf/). But as model complexity grows, so does the model's graphical representation. On particularly uninhibited days, building PGMs without proper urban planning results in a graph that longer fits on the board, becomes lopsided, etc. Redistributing the layout of nodes and edges generally means erasing and redrawing large portions of your graph -- perhaps multiple times, depending on how patient you are when brainstorming.
 
 I've taught at the [Molecular Evolution Workshop](https://molevol.mbl.edu/index.php/Main_Page) in Woods Hole for the past few years. With others, I teach portions of the [Bayesian phylogenetics](https://revbayes.github.io/workshops/woodshole2018.html) unit, where I introduce concepts in phylogenetic model building using RevBayes as a platform. My presentation normally relies on either static premade images or handdrawn board work. While imagining more effective ways to present the material, magnets came to mind -- magnets where you could write on their surface and rearrange them in whatever way the group's curiosity might take us. I thought magnets like this might be available online, but my searches came up empty. So the only thing to do was to make some myself!
+
+The magnets made for a fantastic teaching aid -- e.g. "Who'll volunteer to build the graphical model that specifies such-and-such list of equations? How many random variables do you have? How many edges are needed? What if you treated U as a function of L + \sigma^2 instead of as a constant value? What if you set \sigma to be Gamma-distributed?"
 
 I'm more than pleased with how the graphical model magnets turned out. Not bad for the first try! And the students and teachers at the workshop seemed to enjoy them, too.
 
