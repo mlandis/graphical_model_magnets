@@ -1,4 +1,4 @@
-## DIY Graphical Model Magnets: How-To (and some Why)
+## DIY Graphical Model Magnets: How To and some Why
 
 Building a graphical model with magnets (DAGnets?)
 
