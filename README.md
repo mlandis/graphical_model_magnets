@@ -11,6 +11,7 @@ Email: mlandis [at] gmail [dot] com
 
 This is how they work. The magnets are strong enough to give a nice clacking sound.
 
+<br><img src="img/pgm_anim.gif" width="350px"/>
 [video]()
 
 Teaching aid
@@ -62,7 +63,7 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
 
 #### Nodes & Edges
   1. Mark the center of each shape
-    <br><img src="img/pgm_node_mark.jpg" alt="Mark the center of each shape" width="350px"/>
+    <br><img src="img/pgm_node_mark.jpg" width="350px"/>
   2. Dab with glue
     <br><img src="img/pgm_node_glue.jpg" width="350px"/>
   3. Place magnet (match polarity across shapes)
