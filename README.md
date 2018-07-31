@@ -16,7 +16,6 @@ Contact
 * Email: [mlandis@gmail.com](mailto:mlandis@gmail.com)
 * Twitter: [@landismj](https://twitter.com/landismj)
 
-
 ### Motivation
 
 Probabilistic models are sets of random variables that share a common dependency structure. Such models have an equivalent graphical representation, in which model variables are represented by nodes and and variable dependencies are represented by directed edges. These graphs are called probabilistic graphical models (PGMs). PGMs are useful in modeling for many purposes: from designing efficient algorithms for inference methods, to blueprinting and specifying models, to teaching and communicating how particular models are built.
@@ -29,9 +28,9 @@ Drawing PGMs to this end is clarifying, and even fun, whether by hand or using g
 
 More broadly, I've taught at the [Molecular Evolution Workshop](https://molevol.mbl.edu/index.php/Main_Page) in Woods Hole for the past few years. With others, I teach portions of the [Bayesian phylogenetics](https://revbayes.github.io/workshops/woodshole2018.html) unit, where I introduce concepts in phylogenetic model building while using RevBayes as a platform. My presentation normally relies on either static premade images or hand drawn board work. While imagining more effective ways to present the material, magnets came to mind -- magnets where you could write on their surface and rearrange them in whatever way the group's curiosity might take us. I thought magnets like this might be available online, but my searches came up empty. So the only thing to do was to make some myself!
 
-The magnets made for a fantastic teaching aid -- e.g. "Who'll volunteer to build the graphical model that specifies such-and-such list of equations? How many random variables do you have? How many edges are needed? What if you treated U as a function of L + \sigma^2 instead of as a constant value? What if you set \sigma to be Gamma-distributed?" But I'm also finding new uses for them in diagramming probabilistic models.
+The magnets made for a fantastic teaching aid -- e.g. "Who'll volunteer to build the graphical model that specifies such-and-such list of equations? How many random variables do you have? How many edges are needed? What if you treated U as a function of L + z^2 instead of as a constant value? What if you set z to be Gamma-distributed?" -- it turned what could have been a stale moment into something lively and interactive that involved the whole class.
 
-I'm more than pleased with how the graphical model magnets turned out. Not bad for a realized daydream. And the students and teachers at the workshop seemed to enjoy them, too. My thanks go to the MolEvol2018 [Course Participants](https://molevol.mbl.edu/index.php/Participants) for allowing [Tracy Heath](http://phyloworks.org/) and myself to try these out in the classroom!
+I'm more than pleased with how the graphical model magnets turned out. And the students and teachers at the workshop seemed to enjoy them, too. My thanks go to the MolEvol2018 [Course Participants](https://molevol.mbl.edu/index.php/Participants) for allowing [Tracy Heath](http://phyloworks.org/) and myself to try these out in the classroom! Besides teaching, I'm finding the magnets are a pleasant alternative to pen-and-paper for diagramming new models.
 
 ### Materials
 
