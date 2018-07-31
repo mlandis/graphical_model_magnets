@@ -1,5 +1,7 @@
 ## DIY Graphical Model Magnets: How-To (and some Why)
 
+Building a graphical model with magnets (DAGnets?)
+
 <img src="img/pgm_anim.gif" width="350px"/>
 
 The magnets are simple, lightweight, and clean. Plus they make a satisfying "clack" on whiteboards. Overall, rather fun to play with.
