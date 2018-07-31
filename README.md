@@ -10,6 +10,7 @@ The magnets are simple, lightweight, and clean. Plus they make a satisfying "cla
 * Design models anywhere ferrous
 * Compact and organized storage
 * Easy enough for a baby to use
+  <br><img src="img/pgm_baby.jpg" width="350px"/>
 
 Contact
 * Email: [mlandis@gmail.com](mailto:mlandis@gmail.com)
