@@ -28,7 +28,7 @@ I've taught at the [Molecular Evolution Workshop](https://molevol.mbl.edu/index.
 
 The magnets made for a fantastic teaching aid -- e.g. "Who'll volunteer to build the graphical model that specifies such-and-such list of equations? How many random variables do you have? How many edges are needed? What if you treated U as a function of L + \sigma^2 instead of as a constant value? What if you set \sigma to be Gamma-distributed?"
 
-I'm more than pleased with how the graphical model magnets turned out. Not bad for the first try! And the students and teachers at the workshop seemed to enjoy them, too.
+I'm more than pleased with how the graphical model magnets turned out. Not bad for a realized daydream. And the students and teachers at the workshop seemed to enjoy them, too. My thanks go to the MolEvol2018 [Course Participants](https://molevol.mbl.edu/index.php/Participants) for allowing [Tracy Heath](http://phyloworks.org/) and myself to try these out in the classroom!
 
 ### Materials
 
@@ -84,6 +84,6 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
 There are a few ways to improve the design with additional materials and effort:
 
 - Rather than using one central magnet, using 2--4 weaker magnets would improve stability of nodes and arrows against the board. Gouging spaces to embed magnets into the wooden shapes would also help stabilize the markers and improve how well the glue binds to the magnet.
-- Adding magnetized connectors to nodes and edges so that they ``snap'' together would be very satisfying. Eliminating the need to match arbitrary polarities for connections seems like it'd require some clever and economical engineering.
+- Adding magnetized connectors to nodes and edges so that they "snap" together would be very satisfying. Eliminating the need to match arbitrary polarities for connections seems like it'd require some clever and economical engineering.
 - Painting permanent borders on to the nodes might give them a cleaner look, though I like that I can define the node's identity on the fly (e.g. stochastic vs. deterministic nodes). Permanently dyeing a few circular (stochastic) nodes gray for use as observed stochastic nodes would also be a nice touch. The directed edges could use a coat of sealant.
 - Currently the edges are short and rigid, which could be a problem when longer or crossed edges are needed in complex graphs. As a hack, stacking extra magnets to the back of some edges would allow for crossing. Longer or curved arrows could be purchased through Etsy at higher cost (custom shapes).
