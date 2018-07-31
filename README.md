@@ -5,7 +5,7 @@ Twitter: @landismj
 Email: mlandis [at] gmail [dot] com
 
 ### Example
-<br><img src="img/pgm_anim.gif" width="350px"/>
+<img src="img/pgm_anim.gif" width="350px"/>
 
 The magnets are simple, lightweight, and clean. Plus they make a satisfying "clack" on whiteboards. Overall, rather fun to play with.
 
