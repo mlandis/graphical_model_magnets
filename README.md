@@ -16,13 +16,13 @@ Contact
 
 ### Motivation
 
-Probabilistic models are sets of random variables that share a dependency structure. Probabilistic graphical models (or PGMs) encode the structure of a probabilistic model as a graph. The graph represents the model's random variables with nodes and its dependencies with directed edges. PGMs are useful in modeling for many purposes: from designing efficient algorithms for inference methods, to blueprinting and specifying models, to teaching and communicating how particular models are built.
+Probabilistic models are sets of random variables that share a common dependency structure. Such models have an equivalent graphical representation, in which model variables are represented by nodes and and variable dependencies are represented by directed edges. These graphs are called probabilistic graphical models (PGMs). PGMs are useful in modeling for many purposes: from designing efficient algorithms for inference methods, to blueprinting and specifying models, to teaching and communicating how particular models are built.
 
 I study evolutionary biology. A major part of my research involves developing methods for the Bayesian phylogenetics package, [RevBayes](http://revbayes.com). In RevBayes, both the scripting language that biologists use to specify models and the computational back-end that's used for inference are designed upon a graphical architecture (papers for the [software](https://academic.oup.com/sysbio/article/65/4/726/1753608) and its underlying [design](https://academic.oup.com/sysbio/article/63/5/753/2847897)).
 
 When I'm not developing RevBayes code, I use RevBayes to explore evolutionary models to understand how life evolved on the planet (examples of recent work [[1](https://academic.oup.com/sysbio/article/66/2/128/2669985)] [[2](https://www.biorxiv.org/content/early/2018/04/17/301887))]. A major part of this effort requires prototyping and designing new models. Similar to how programmers write pseudocode to first sketch out the logical skeleton of unwritten code, I sketch graphical models to initially design the logical skeleton of my model.
 
-Drawing PGMs is a joyful experience for me, whether by hand or using graphing software like [TikZ](https://sourceforge.net/projects/pgf/). But as model complexity grows, so does the model's graphical representation. On particularly uninhibited days, building PGMs without proper urban planning results in a graph that longer fits on the board, becomes lopsided, etc. Redistributing the layout of nodes and edges generally means erasing and redrawing large portions of your graph -- perhaps multiple times, depending on how patient you are when brainstorming.
+Drawing PGMs is a joyful experience for me, whether by hand or using graphing software like [TikZ](https://sourceforge.net/projects/pgf/). But as model complexity grows, so does the model's graphical representation. On particularly uninhibited days, constructing a PGM without some prudent urban planning may result in a graph that no longer fits on the board, becomes lopsided, etc. Redistributing the layout of nodes and edges generally means erasing and redrawing large portions of your graph -- perhaps multiple times, depending on how careful you are when brainstorming.
 
 I've taught at the [Molecular Evolution Workshop](https://molevol.mbl.edu/index.php/Main_Page) in Woods Hole for the past few years. With others, I teach portions of the [Bayesian phylogenetics](https://revbayes.github.io/workshops/woodshole2018.html) unit, where I introduce concepts in phylogenetic model building using RevBayes as a platform. My presentation normally relies on either static premade images or handdrawn board work. While imagining more effective ways to present the material, magnets came to mind -- magnets where you could write on their surface and rearrange them in whatever way the group's curiosity might take us. I thought magnets like this might be available online, but my searches came up empty. So the only thing to do was to make some myself!
 
@@ -70,7 +70,9 @@ After settling on the procedure, it took only 90 minutes of work to prepare all 
   
   (Complete steps 1-4)
   
-  5. Paint black
+  5. Listen to appropriate [music](https://www.youtube.com/watch?v=O4irXQhgMqg) (optional)
+  
+  6. Paint it black
     <br><img src="img/pgm_edge_paint.jpg" width="350px"/>
    
 #### Done
